@@ -1,10 +1,9 @@
 # Jemel-Limjuco
 
-# Juan Dela Cruz
 
 ## About Me
 
-I am Juan Dela Cruz, a passionate coder with strong database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in technology began with the BS Information Technology program.
+I am Jemel Limjuco, a passionate coder with strong database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in technology began with the BS Information Technology program.
 
 ## Education
 
@@ -27,5 +26,5 @@ I am Juan Dela Cruz, a passionate coder with strong database management skills. 
 
 ## Contact Me
 
-- *LinkedIn:* [LinkedIn Profile](linkedin_link)
-- *Email:* juandelacruz@gmail.com
+- *LinkedIn:* [LinkedIn Profile](https://www.linkedin.com/in/jemel-limjuco-3b15102a3/)
+- *Email:* jemel.limjuco@gmail.com
